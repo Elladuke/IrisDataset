@@ -10,5 +10,4 @@ uvloop
 httptools
 pydantic
 nest_asyncio
-pickle
 
